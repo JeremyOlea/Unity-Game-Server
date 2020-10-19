@@ -1,0 +1,13 @@
+C:\Users\Jeremy\Documents\Unity\Among Us\Server\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.exe
+C:\Users\Jeremy\Documents\Unity\Among Us\Server\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.deps.json
+C:\Users\Jeremy\Documents\Unity\Among Us\Server\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.json
+C:\Users\Jeremy\Documents\Unity\Among Us\Server\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.dev.json
+C:\Users\Jeremy\Documents\Unity\Among Us\Server\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.dll
+C:\Users\Jeremy\Documents\Unity\Among Us\Server\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.pdb
+C:\Users\Jeremy\Documents\Unity\Among Us\Server\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.csprojAssemblyReference.cache
+C:\Users\Jeremy\Documents\Unity\Among Us\Server\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfoInputs.cache
+C:\Users\Jeremy\Documents\Unity\Among Us\Server\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfo.cs
+C:\Users\Jeremy\Documents\Unity\Among Us\Server\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Documents\Unity\Among Us\Server\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.dll
+C:\Users\Jeremy\Documents\Unity\Among Us\Server\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.pdb
+C:\Users\Jeremy\Documents\Unity\Among Us\Server\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.genruntimeconfig.cache
