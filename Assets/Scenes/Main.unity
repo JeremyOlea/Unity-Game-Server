@@ -350,6 +350,7 @@ GameObject:
   m_Component:
   - component: {fileID: 138402833}
   - component: {fileID: 138402834}
+  - component: {fileID: 138402835}
   m_Layer: 0
   m_Name: ClientManager
   m_TagString: Untagged
@@ -386,6 +387,18 @@ MonoBehaviour:
   ip: 127.0.0.1
   port: 26950
   myId: 0
+--- !u!114 &138402835
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 138402832}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3271b14b81f98e44c99989451d819bf6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &266325057
 GameObject:
   m_ObjectHideFlags: 0
